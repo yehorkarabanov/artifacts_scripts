@@ -1,7 +1,7 @@
 import json
 import requests
 from utils.singleton import Singleton
-from settings import settings
+from config.settings import settings
 from loguru import logger
 
 
